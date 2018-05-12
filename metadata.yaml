@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4672
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Murray_%28minister%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29296#The-Ministry-of-Intercession--A-Plea-for-More-Prayer
 gutenberg_issued: '2009-07-02'
 gutenberg_type: Text
 identifiers:
